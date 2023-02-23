@@ -22,4 +22,4 @@ string LineBuilder(int end, int pow)
 
 int N = ReadData("Введите конечное число :  ");
 Console.WriteLine(LineBuilder(N,1));
-Console.WriteLine(LineBuilder(N,2));
+Console.WriteLine(LineBuilder(N,3));
