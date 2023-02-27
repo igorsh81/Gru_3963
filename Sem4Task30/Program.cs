@@ -61,7 +61,8 @@ int[] Gen1DArr(int len, int min, int max)
     }
 
     return arr;
-}  //prints 1D array into consle
+}  
+//prints 1D array into consle
 void Print1DArr(int[] arr)
 {
     Console.Write("[");
